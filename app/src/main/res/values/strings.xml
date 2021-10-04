@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MulitiNotes</string>
+    <string name="info">Item</string>
+    <string name="create">Item</string>
+    <string name="date">date</string>
+    <string name="textview">TextView</string>
+    <string name="nothing">null</string>
+</resources>
